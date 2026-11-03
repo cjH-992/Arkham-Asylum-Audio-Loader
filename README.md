@@ -11,7 +11,3 @@ For Convienence adio tracks are seperated on the github however all that is requ
 _
 
 Arkham Audio Pack: Main Asylum themed pack
-
-Arkham Gadget Edit: Slight edit surrounding more gadget audio
-
-Asylum Audio Edit: More silly edit to the base pack
