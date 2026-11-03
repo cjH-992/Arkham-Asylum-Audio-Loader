@@ -10,4 +10,4 @@ For Convienence audio tracks are seperated into a folder on the github, however 
 
 _
 
-Arkham Audio Pack: Main Asylum themed pack
+Arkham Audio Pack: Main Arkham Asylum themed pack
