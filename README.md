@@ -1,6 +1,13 @@
 # Arkham-Asylum-Audio-Loader
-Arkham Asylum Audio Pack for Steam Deck Plugin
+Arkham Asylum Audio Packs for Steam Deck AudioLoaders Plugin
+
 All Rights Belong to the Original Owners
 
-Sfx are ripped from an owned copy of Batman Arkham Asylum and extracted from the .fsb files embeded in the .RFMODSound files used for the game.
-Some audios are overlayed and edited for personilzation
+
+Sfx are ripped using UPK Explorer from an owned copy of Batman Arkham Asylum and extracted from the .fsb files embeded in the .RFMODSound files used for the game. Some audios are overlayed and edited for stylization.
+
+For Convienence audio tracks are seperated into a folder on the github, however all that is required is downloading the .zip
+
+_
+
+Arkham Audio Pack: Main Asylum themed pack
